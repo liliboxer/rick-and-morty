@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+
+.paging {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arvo', serif;
+}
+
+button {
+    border: none;
+    font-size: 20px;
+    margin: 10px;
+    vertical-align: middle;
+    padding: 10px;
+    background-color: transparent;
+}
+
+button:hover {
+    color: rgb(34, 206, 34);
+}

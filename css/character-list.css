@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
+
 ul {
     display: flex;
     flex-wrap: wrap;
@@ -6,7 +8,6 @@ ul {
 
 /* to be moved into list component css when it's dynamically created */ 
 
-@import url('https://fonts.googleapis.com/css?family=Arvo&display=swap');
 h2, p {
     font-family: 'Arvo', serif;
 }
